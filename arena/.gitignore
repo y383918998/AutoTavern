@@ -1,0 +1,4 @@
+# Local-only training outputs. Never commit or upload trajectories or weights.
+artifacts/
+*.npz
+*.npy
